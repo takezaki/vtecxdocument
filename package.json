@@ -1,0 +1,24 @@
+{
+  "name": "@vtecx/vtecxdocument",
+  "version": "1.0.0",
+  "description": "vte.cx BaaS framework and API documentation",
+  "main": "",
+  "files": [
+    "docs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reflexworks/vtecxdocument.git"
+  },
+  "keywords": [
+    "vtecx",
+    "documentation",
+    "api"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reflexworks/vtecxdocument/issues"
+  },
+  "homepage": "https://github.com/reflexworks/vtecxdocument#readme"
+}
